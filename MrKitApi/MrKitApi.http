@@ -1,0 +1,6 @@
+@MrKitApi_HostAddress = http://localhost:5107
+
+GET {{MrKitApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
